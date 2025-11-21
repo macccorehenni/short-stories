@@ -26,4 +26,25 @@ Quill allowed Emrie to place her head on the cat's shoulder as Curiosity slumped
 "Take your time, glowcat. We'll be here."
 
 ---
-After a few minutes snuggling with Emrie, she sighed and got up, touching her girl's nose gently, petting Casorie's, and guiding Quill onto her shoulder.
+After a few minutes snuggling with Emrie, Casorie, and Quill, Curiosity sighed deeply and shakily and got up, touching her girl's nose gently, petting Casorie's, and guiding Quill onto her shoulder. "Ready?" the teifling prompted, her scarf around her neck.
+
+"I think… so." Curiosity shivered, more violently then before.
+
+Emrie gave her girl one quick snuggle, then walked forward. 
+
+"I'm… ready." Curiosity gave one last tentative smile, then, against her body's will, moved forward. 
+
+---
+After a few minutes of walking, Emrie looked over at her girlfriend. She was still tense— tail flicking, as if ready for danger; nervous eyes darting around, jumping at the slightest sound. But she _had_ relaxed just a bit. Emrie noticed that she had really begun to notice things that her child self– always in flight, always dim— had always failed to notice. 
+
+"That building looks so cute. It reminds me of my little nook back at Callendor." She smiled, ruefully, before pausing and moving over to the building and looking at a piece of brick lying next to it. "I wonder— I wonder if I could find any bit of Pixie's life here… that would lead back to what our little kit had gone through in the year she had been… here on the streets."
+
+"Probably not, girl. Are you okay?" Casorie, who had been walking alongside Emrie, gently snorted in front of her handler's girlfriend and did her best to emphasize Emrie's question. 
+
+Curiosity simply nodded as they walked. "This was a brick _I_ had claimed long ago." She stopped, holding back some tears. "Perhaps Ahlia could do something I keep in my nook at Callendor with this?"
+
+Emrie nodded, and put the brick in the bag she brought. Her girl was here to heal, she reminded herself. It was brave enough that she faced her post–traumatic stress face on, so Emrie only felt it fair to honor her every little request without complaint. She was young after all, it meant _much more_ to Curiosity than Emrie could ever have imagined.
+
+Suddenly, a shadow flitted in front of the four and Curiosity immediately stiffened, her tail raising to defend herself as a form of protection.
+
+Emrie noticed this, and went by her side, drawing her bow. Casorie reacted in like, and Quill came to his handler's
