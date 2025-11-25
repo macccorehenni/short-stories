@@ -1,1 +1,8 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:toggle-italics",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-horizontal-rule"
+  ]
+}

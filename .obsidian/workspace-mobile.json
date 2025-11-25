@@ -98,9 +98,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "27fb577237435a39",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "db3dba12ccd35257",
@@ -170,5 +180,8 @@
     }
   },
   "active": "da44dfa932e91039",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Tags",
+    "emrie-and-curiosity-in-secover.md"
+  ]
 }
