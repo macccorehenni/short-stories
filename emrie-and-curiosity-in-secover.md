@@ -47,4 +47,4 @@ Emrie nodded, and put the brick in the bag she brought. Her girl was here to hea
 
 Suddenly, a shadow flitted in front of the four and Curiosity immediately stiffened, her tail raising to defend herself as a form of protection.
 
-Emrie noticed this, and went by her side, drawing her bow. Casorie reacted in like, and Quill came to his handler's
+Emrie noticed this, and went by her side, drawing her bow. Casorie reacted in like, and Quill came to his handler's side. 
