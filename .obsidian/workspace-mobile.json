@@ -25,14 +25,14 @@
             "id": "8c9ff31b00d5e7d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Emrie and Curiosity in Secover.md",
-                "mode": "source",
-                "source": false
+                "aFile": "emrie-and-curiosity-in-secover.md",
+                "bFile": "emrie-and-curiosity-in-secover.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Emrie and Curiosity in Secover"
+              "icon": "git-pull-request",
+              "title": "Diff: emrie-and-curiosity-in-secover"
             }
           }
         ],
@@ -127,7 +127,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Emrie and Curiosity in Secover.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,10 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c9ff31b00d5e7d4",
+  "active": "a4a076717f37cacd",
   "lastOpenFiles": [
-    "Pixie and the Seven Wands.md",
+    "emrie-and-curiosity-in-secover.md",
+    "/emrie-and-curiosity-in-secover.md",
     "Emrie and Curiosity in Secover.md",
+    "Pixie and the Seven Wands.md",
     "Tags"
   ]
 }
