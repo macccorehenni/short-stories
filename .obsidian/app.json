@@ -4,5 +4,10 @@
     "editor:undo",
     "editor:redo",
     "editor:insert-horizontal-rule"
-  ]
+  ],
+  "focusNewTab": false,
+  "propertiesInDocument": "hidden",
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "promptDelete": false
 }
