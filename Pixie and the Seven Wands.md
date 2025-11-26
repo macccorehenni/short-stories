@@ -6,4 +6,5 @@ As Pixie approached, Curiosity jumped, causing her moth friend to flutter away, 
 "'Sup, little one?" Curiosity smiled and pulled Pixie closer. "How was your first day?"
 Pixie smiled. "I made two friends!"
 "Oh, did you now?"
-Pixie described her friends to her mother. One, a human named Volina, had a relatively unique manifest where she could generate static electricity just by raising her hand. She came from a family who was close to the Elders in terms of wealth, and has connection to them through Celestial Eisnore and its high school. She had come to her first day wearing a purple dress and shirt combo that Pixie admired, growing up around Curiosity and her high fashion sense. 
+Pixie described her friends to her mother. One, a human named Volina, had a relatively unique manifest where she could generate static electricity just by raising her hand. She came from a family who was close to the Elders in terms of wealth, and has connection to them through Celestial Eisnore and its high school. She had come to her first day wearing a purple dress and shirt combo that Pixie admired, growing up around Curiosity and her high fashion sense.
+She then went on to describe her other friend, Florynth. She was a Fey faerie, five inches tall, and had yellow and brown wings. She was wearing a pink and purple dress, and had on a orchid headdress belying her manifest as 
