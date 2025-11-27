@@ -1,4 +1,3 @@
-
 # Emrie and Curiosity in Secover
 "I'm scared, Emrie."
 
