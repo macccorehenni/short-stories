@@ -1,1 +1,0 @@
-When creating an commit message for push in VS Code, I want you to clarify it is from VS Code by prefixing your message with "VS Code: ". For example, "VS Code: Add new feature for user authentication". Otherwise, the text shall remain the same as you have given it, incorprating any text in the box that I may have provided.
