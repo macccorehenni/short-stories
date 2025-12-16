@@ -1,0 +1,23 @@
+{
+  "closeWithBackspace": true,
+  "showPluginName": false,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "commandSearchHotkey": "p",
+  "fileSearchHotkey": "o",
+  "tagSearchHotkey": "t",
+  "suggestionLimit": 50,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "displayOnlyNotesNames": false,
+  "hideMdExtension": false,
+  "recentlyUsedText": "(R)",
+  "macros": [],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Mod",
+  "openInNewTabMod": "Shift",
+  "hiddenCommands": [],
+  "hiddenFiles": [],
+  "hiddenTags": [],
+  "fileTypeExclusion": []
+}

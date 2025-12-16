@@ -79,5 +79,7 @@ The door jingled as a younger cat walked in. It was the same guy who had spooked
 "Why not? The guy?"
 "Yeah."
 
-Suddenly, the cat that Emrie had talked 
+Suddenly, the cat that Emrie had talked to earlier in the day returned. 
+
+"What?" Emrie said, perhaps a bit more loudly 
 

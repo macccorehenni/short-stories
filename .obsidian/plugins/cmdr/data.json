@@ -22,7 +22,12 @@
     "spacing": 0,
     "buttonWidth": 48,
     "columnLayout": false,
-    "mappedIcons": [],
+    "mappedIcons": [
+      {
+        "commandID": "obsidian-better-command-palette:open-better-commmand-palette",
+        "iconID": "lucide-command"
+      }
+    ],
     "tooltips": false,
     "heightOffset": 0
   }

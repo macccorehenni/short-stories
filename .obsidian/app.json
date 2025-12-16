@@ -1,13 +1,13 @@
 {
   "mobileToolbarCommands": [
+    "obsidian-better-command-palette:open-better-commmand-palette",
     "editor:toggle-italics",
-    "editor:undo",
-    "editor:redo",
     "editor:insert-horizontal-rule"
   ],
   "focusNewTab": false,
   "propertiesInDocument": "hidden",
   "spellcheck": false,
-  "showInlineTitle": true,
-  "promptDelete": false
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "mobilePullAction": "obsidian-better-command-palette:open-better-commmand-palette"
 }

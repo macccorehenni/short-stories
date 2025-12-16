@@ -1,8 +1,9 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "cmdr",
   "import-todoist",
   "remember-cursor-position",
-  "advanced-progress-bars"
+  "advanced-progress-bars",
+  "obsidian-better-command-palette",
+  "cmdr"
 ]
