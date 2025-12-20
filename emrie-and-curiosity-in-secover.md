@@ -53,4 +53,4 @@ Emrie noticed this, and went by her side, drawing her bow. Casorie reacted in li
 
 "It's who?" 
 
-"The leader of the… gang. "
+"The leader of the… gang. The one you saw earlier."
