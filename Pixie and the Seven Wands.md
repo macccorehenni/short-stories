@@ -1,4 +1,4 @@
-# Pixie and the Seven wands
+# Pixie and the Seven Wan
 
 ## Into the Grove
 
@@ -83,4 +83,11 @@ Despite having magics, Pixie was *nowhere* ready to stay in the field overnight.
 
 Curiosity's panic was magnified by a tug at her waist.
 
-"Miss Curiosity?" It was Volina, her hair sparked up due to the clothes she had on. Earlier in the day, she had splashed around in the River when the Dragon Keepers, Pixie, Florynth and she visited. She was wet with no way to fix it, so she had to borrow her newfound friend's clothes, which of course were staticky
+"Miss Curiosity?" It was Volina, her hair sparked up due to the clothes she had on. Earlier in the day, she had splashed around in the River when the Dragon Keepers, Pixie, Florynth and she visited. She was wet with no way to fix it, so she had to borrow her newfound friend's clothes, which of course were staticky and stuck to the static electric girl's body. 
+"Oh, fu—" Curiosity sighed. "Let's go to the field."
+"Why?" This time, it was the half-faerie, Florynth. 
+"Pixie is missing."
+Immediately, Florynth ran out the door to the Field of Many Things, concerned gravely at the loss of her friends. Curiosity, similarly, ran into the field, followed, less urgently, by Volina. 
+"Pixie!" Curiosity, tail wrapped around Florynth, both running, was at full panic. She was about to give up, but Volina stopped suddenly. 
+"Florynth? Do you see this?"
+"Yeah?"

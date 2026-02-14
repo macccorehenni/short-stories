@@ -1,0 +1,5 @@
+# Daybreak
+The light was just breaking over the hills, and so was Kael starting his morning. He woke up suddenly, as he always did, and he patted Irin's hair— messy, still in its long twin drills, still sleeping off the training, squeaking at one thing or another. "She's stable", the tall, young god, Irin's boyfriend, mused, tussling her hair as he rose. Callendor was different from Silver Temple in that he *didn't* have to stand watch— he wanted to. 
+He next walked into the Triad's room, their triangle of instinct and care showing. This was their first training together. As he came in, Seraphina's girl, the largest of the three and the Shadow of the Triad, awoke. Veyra grunted her confusion, and Kael mimicked her grunt to pull her back to sleep. She nestled her forehead against her sister, Aurelia, and returned to sleep. Elia was the child of Rose, and her glow indicated she was as much. Kael smiled and continued on. 
+He checked back in on Irin. She was stirring. "Wake up my dear."
+Irin squeaked, displeasure and exhaustion pulsing through her tired timbre. "It's about time for the little ones to wake up. "
