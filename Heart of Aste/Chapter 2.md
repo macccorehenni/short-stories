@@ -125,4 +125,4 @@ He frowned, something I hadn't seen before. I don't think he agreed with me.
 I explained that the silver man, if he was like the boat man, then he was not going to be easily found. And if he wasn't? I didn't really see any reason why he wasn't. 
 
 "So that's final."
-Kira's smudge looked like it was about to combust into a flame the size of my dusk-cub. But she bit her tongue and followed me as I exited the castle. Somehow she
+Kira's smudge looked like it was about to combust into a flame the size of my dusk-cub. But she bit her tongue and followed me as I exited the castle. Somehow she still seemed to trust me, after all we had been through. But I could tell that she _wanted_ to trust
