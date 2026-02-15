@@ -45,7 +45,9 @@ Korrin nearly choked laughing.
 I sighed and rubbed my forehead. “One day, you’ll set my hair on fire.”
 “Could be an improvement,” Kira muttered from behind us without looking up from her gear.
 Flicker squeaked angrily from the safety of my braid. I patted him once, pretending to smooth the strands. “Ignore her,” I whispered. “You’re perfect. Just flammable.”
+
 ---
+
 He’ll stay there for hours, I thought. But then the floor beneath us shifted—no, shivered. The vibration crawled up my boots before the roar even reached us.
 That sound wasn’t something you heard so much as something that reached straight through you, deep and hungry. Korrin froze mid‑step. Kira’s conjured flame snapped smaller, jittery. Even the silver man’s head turned slightly, as if listening to a language older than ours.
 And then the demon stepped into view.
@@ -125,4 +127,21 @@ He frowned, something I hadn't seen before. I don't think he agreed with me.
 I explained that the silver man, if he was like the boat man, then he was not going to be easily found. And if he wasn't? I didn't really see any reason why he wasn't. 
 
 "So that's final."
-Kira's smudge looked like it was about to combust into a flame the size of my dusk-cub. But she bit her tongue and followed me as I exited the castle. Somehow she still seemed to trust me, after all we had been through. But I could tell that she _wanted_ to trust
+Kira's smudge looked like it was about to combust into a flame the size of my dusk-cub. But she bit her tongue and followed me as I exited the castle. Somehow she still seemed to trust me, after all we had been through. But I could tell that she didn't trust this world— as she should not. It's not for the faint of hearts. She was too bright, too sensitve, often startling at the littlest sound when we were young. I had been her _rock_ through the years.
+
+She had fire lapping at her ears, holding back the stress of trust so I wouldn't worry, but I could tell. I was so focused on the signs of demons approching— pressure dropping, emotions flaring amongst us three— that I didn't notice the girl. She was quick, quicker than even me. Her feet moved with the knowlege of darkness never shown, the fear of whose life she would let down next. Kira, however, noticed her, and she became distracted the longer we go on.
+
+"Stop, Mira. Something's not right with Ki."
+Kira stumbled over a rock and fell as Korrin paused out of concern for her, immediatly popping up and exclaiming, "I'm… I'm… okay, I guess?"
+"I agree with Korrin, though, sister. What's going on? Your ears have been flaming all day, but now? They are quiet." My brow furrowed with worry for her, my little sister. Something, other than her discomfort with the Shadow Realms, bothered her.
+"Something… something caught my eyes."
+"Sure, Kira. Something also destablized your emotions. You saw _something_ you just don't wanna admit."
+Kira's pace stuttered, her smudge brightening in protest. She often tried so hard to hide her emotions, but her fledgling magic always gave her away. Kira's pace stuttered, her smudge brightening in protest. She often tried so hard to hide her emotions, but her fledgling magic always gave her away.
+"No, no, no, that… I saw _nothing_!" She stomped the ground in protest, but then the demon chasing the girl attacked _Mira_. Not Korrin and I.
+
+We all froze, caught off guard, and the demon took advantage of that. But suddenly the demon crumbled apart, and as the dust settled, the girl appeared.
+Mira, still on the ground, stared up at the girl as if she were a lantern.
+Her baked–clay face was marred by a curious mark, the silver around her right eye looking like the makeup on a ancient Egyptian statue, a pharoh. She wore a dress and skirt, golden like the skin under her right eye. Her hands smoked, as if they had just been lit on fire. Her hair was of the same greyish brown as her left—arm bracelet, sun–baked, a feeling that was out of place amongst the dull greys. Its short lengths flowed over her ears loosely, almost as if it were a mirage we imagined, rather than the hair of a real young lady.
+"Hi… I'm Mira."
+She said it sheepishly, almost as if she thought that the girl was the demon she had killed, and did not want to offend her, lest her true form return.
+"Neyveia." She was shaking, the destruction of the demon having taking the wind from her.
