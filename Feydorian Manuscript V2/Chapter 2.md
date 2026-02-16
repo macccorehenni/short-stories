@@ -88,3 +88,4 @@ After an hour on Yae's shoulder, I beckoned to her to stop. Gently she kneeled d
 
 "I've been… lying to you."
 
+[Previous](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Chapter+1 "Previous") [Next](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Interlude+1+(Ch+1-2))
