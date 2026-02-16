@@ -115,4 +115,4 @@ I fought, my blood boiling. I did not want my land to fall to this person who wa
 My mother had tensed up when I said that. I didn't care. I was done hiding from this. I wanted him gone. In retrospect though, that was the downfall of Feydor. Not the Lich, my rash decision. He finished what I started. 
 
 "I will fight, if that's what it comes down to. You will be no more."
-[Next](Chapter 2.md)
+[Next](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Chapter+2 "Next")
