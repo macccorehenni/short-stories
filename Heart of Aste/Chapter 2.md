@@ -144,4 +144,10 @@ Mira, still on the ground, stared up at the girl as if she were a lantern.
 Her baked–clay face was marred by a curious mark, the silver around her right eye looking like the makeup on a ancient Egyptian statue, a pharoh. She wore a dress and skirt, golden like the skin under her right eye. Her hands smoked, as if they had just been lit on fire. Her hair was of the same greyish brown as her left—arm bracelet, sun–baked, a feeling that was out of place amongst the dull greys. Its short lengths flowed over her ears loosely, almost as if it were a mirage we imagined, rather than the hair of a real young lady.
 "Hi… I'm Mira."
 She said it sheepishly, almost as if she thought that the girl was the demon she had killed, and did not want to offend her, lest her true form return.
-"Neyveia." She was shaking, the destruction of the demon having taking the wind from her.
+"Neyveia." She was shaking, the destruction of the demon having taking the wind from her. 
+"Pretty— I mean, my name is Mira."
+She was flustered, I could tell. 
+"Nice to meet you three."
+Korrin frowned. "What was that demon doing chasing you?"
+A smile spread across Neyveia's face. "I baited it."
+"Have you taken care of the person? You know, the one 
