@@ -24,3 +24,4 @@ This selflessness showed that she was the true savior the Island needed— her s
 As her final breath slipped free, ascension met her gently,  for her time upon the Material Plane had reached its rightful end.  
 
 And as my daughter stepped forward to take her mother’s place, I smiled upon them both — for I know the resting place of women like Imelda, and the path awaiting women like Yaereene.
+[Previous](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Chapter+2) [Next](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Chapter+3 "Next")

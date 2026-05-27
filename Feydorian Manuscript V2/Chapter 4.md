@@ -1429,3 +1429,5 @@ We weren’t alone.
 We weren’t just sisters clinging to each other in the ruins of what used to be— we were a family again.
 
 And I felt it like lightning in my chest.
+
+[Previous](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Interlude+2+(Ch+4-5)) 

@@ -639,3 +639,5 @@ The innkeeper’s fear still clung to me like smoke.
 We weren’t done running.  
 
 The world wasn’t finished trying us.
+
+[Previous](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Interlude+1+(Ch+1-2)) [Next](https://my.flowershow.app/@macccorehenni/feydorian-manuscript/Chapter+4)
